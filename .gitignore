@@ -13,3 +13,4 @@ haters/
 .build/
 layout.md
 variables.env
+docker-compose.yml
