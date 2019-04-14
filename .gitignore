@@ -5,3 +5,11 @@ backend/node_modules
 frontend/static
 frontend/.next
 frontend/.vscode
+node_modules/
+.DS_Store
+*.log
+haters/
+.next/
+.build/
+layout.md
+variables.env
